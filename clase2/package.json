@@ -1,0 +1,19 @@
+{
+  "name": "clase2",
+  "version": "1.0.0",
+  "description": "esto es un proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "proyecto node",
+    "say": "cowsay Hola Isai"
+  },
+  "keywords": [
+    "proyecto",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
